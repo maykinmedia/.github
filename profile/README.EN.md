@@ -9,7 +9,7 @@
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://mailing.maykinmedia.nl/subscription/form" target="_blank">📰 Mailinglist</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="README.md"">🌍 Nederlands</a>
+  <a href="https://github.com/maykinmedia/"">🌍 Nederlands</a>
   <hr />
 </div>
 
