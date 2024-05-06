@@ -1,0 +1,67 @@
+openCatalogiYmlVersion: '0.2'
+
+name: Maykin
+website: 'https://www.maykinmedia.nl/'
+logo: 'https://avatars.githubusercontent.com/u/739212'
+
+contact:
+  email: info@maykinmedia.nl
+  phone: +31 (0)20 753 05 23
+
+softwareOwned:
+  - 'https://github.com/open-formulieren/open-forms'
+  - 'https://github.com/maykinmedia/open-inwoner'
+  - 'https://github.com/open-zaak/open-zaak'
+  - 'https://github.com/open-zaak/open-notificaties'
+  - 'https://github.com/open-zaak/open-klant'
+  - 'https://github.com/maykinmedia/open-archiefbeheer'
+  - 'https://github.com/maykinmedia/objects-api'
+  - 'https://github.com/maykinmedia/objecttypes-api'
+
+softwareSupported:
+  - software: 'https://github.com/open-formulieren/open-forms'
+    type: SAAS
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/maykinmedia/open-inwoner'
+    type: SAAS
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/maykinmedia/open-archiefbeheer'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/open-zaak/open-zaak'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/open-zaak/open-notificaties'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/open-zaak/open-klant'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/maykinmedia/objects-api'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+  - software: 'https://github.com/maykinmedia/objecttypes-api'
+    type: Support
+    contact:
+      email: info@maykinmedia.nl
+      phone: +31 (0)20 753 05 23
+
+softwareUsed:
+  - 'https://github.com/django/django'
+  - 'https://github.com/encode/django-rest-framework'
+  - 'https://github.com/maykinmedia/open-api-framework'
+  - 'https://github.com/maykinmedia/commonground-api-common'
