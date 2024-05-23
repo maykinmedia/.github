@@ -21,7 +21,7 @@ Alles wat we doen is gedreven door passie omdat we geloven dat software zo veel 
 ## 🖥️ Open source portfolio highlights
 
 - [Open Formulieren](https://github.com/open-formulieren/open-forms), Snel en eenvoudig slimme formulieren bouwen en publiceren.
-- [Open Inwoner Platform](https://github.com/maykinmedia/open-inwoner), Sociale Mijn-omgeving voor inwoners en ondernemers.
+- [Open Inwoner Portaal](https://github.com/maykinmedia/open-inwoner), Sociale Mijn-omgeving voor inwoners en ondernemers.
 - [Open Zaak](https://github.com/open-zaak/open-zaak), Zaakregistratie volgens de VNG API standaard voor Zaakgericht Werken.
 - [Open Klant](https://github.com/maykinmedia/open-klant), Klanten en contactmomenten opslaan volgens de VNG API standaard voor Klantinteracties.
 
